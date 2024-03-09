@@ -6,7 +6,7 @@
 
 
 ffffffff
-fffff
+fffffffff
 from typing import List
 
 def kidsWithCandies(candies: List[int], extraCandies: int) -> List[bool]:

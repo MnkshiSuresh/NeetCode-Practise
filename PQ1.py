@@ -5,8 +5,7 @@
 #Note that multiple kids can have the greatest number of candies.
 ffff
 
-ffffffff
-fffffffffffff
+ffffffffffffff
 from typing import List
 
 def kidsWithCandies(candies: List[int], extraCandies: int) -> List[bool]:

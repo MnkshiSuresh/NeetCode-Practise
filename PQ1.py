@@ -3,9 +3,7 @@
 #Return a boolean array result of length n, where result[i] is true if, after giving the ith kid all the extraCandies, they will have the greatest number of candies among all the kids, or false otherwise.
 
 #Note that multiple kids can have the greatest number of candies.
-ffff
 
-ffffffffffffff
 from typing import List
 
 def kidsWithCandies(candies: List[int], extraCandies: int) -> List[bool]:

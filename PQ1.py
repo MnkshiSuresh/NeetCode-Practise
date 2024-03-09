@@ -5,7 +5,7 @@
 #Note that multiple kids can have the greatest number of candies.
 
 
-ffff
+ffffffff
 fffff
 from typing import List
 

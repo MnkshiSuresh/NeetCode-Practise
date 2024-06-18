@@ -1,4 +1,4 @@
-#Reverse Words in a string
+'''Reverse Words in a string'''
 
 def Reverse(s: str):
     words=s.split()
